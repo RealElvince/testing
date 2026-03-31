@@ -8,8 +8,8 @@ python setup.py sdist
 
 # installing this package from GitHub
 
-pip install git+https://github.com/James-Leslie/example-python-package.git
+pip install git+https://github.com/RealElvince/testing
 
 # updating this package from GitHub
 
-pip install --upgrade git+https://github.com/James-Leslie/example-python-package.git
+pip install --upgrade git+https://github.com/RealElvince/testing
