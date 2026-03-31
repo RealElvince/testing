@@ -1,9 +1,9 @@
-from setuptools import setup,find_packages
+from setuptools import setup, find_packages
 
 setup(
     name='packages',
     version='0.1',
-    packages=find_packages(exclude['test']),
+    packages=find_packages(exclude=['test']),
     license='MIT',
     description='python packages',
     long_description=open('README.md').read(),
